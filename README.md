@@ -26,6 +26,8 @@ It includes:
 - Node.js (Express mock API)
 - Playwright (E2E automation)
 - Tailwind CSS
+- Vercel - cloud platform optimized for frontend developers to build, deploy, and scale web applications.
+- Render - Cloud platform to host APIs.
 
 ---
 
@@ -105,6 +107,11 @@ It includes:
 ## Visual and performance testing
 
 ---!![alt text](evidence/lighthouse-desktop.jpeg)
+
+# How to Run on cloud platform
+
+ - Open the UI Link : https://qa-booking-flow-assessment-git-main-jiyanenms-projects.vercel.app/
+ - Open the API Link : https://qa-booking-flow-assessment.onrender.com/
 
 # How to Run Locally
 
