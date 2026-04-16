@@ -128,3 +128,7 @@ It includes:
 
 - node server.js
 
+4. Run End To End Testing using playwright
+
+- npm run test:e2e
+
