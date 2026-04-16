@@ -3,7 +3,7 @@
 ##  Live Demo
 [Insert your deployed link here]
 
-- Live UI Demo --> https://qa-booking-flow-assessment-eskugqyvy-jiyanenms-projects.vercel.app/
+- Live UI Demo --> https://qa-booking-flow-assessment-git-main-jiyanenms-projects.vercel.app/
 - Live API / Back End server --> https://qa-booking-flow-assessment.onrender.com/
 - Clone Project -->  https://github.com/Jiyanenm/qa-booking-flow-assessment
 
