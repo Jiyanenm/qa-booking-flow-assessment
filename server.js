@@ -4,8 +4,7 @@ import express from "express";
 const app = express();
 
 app.use(cors({
-  origin: "https://qa-booking-flow-assessment.onrender.com",
-  methods: ["GET", "POST"],
+  origin: "*"
 }));
 
 app.use(express.json());
