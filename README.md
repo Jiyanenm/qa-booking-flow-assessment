@@ -4,7 +4,7 @@
 [Insert your deployed link here]
 
 - Live UI Demo --> https://qa-booking-flow-assessment-git-main-jiyanenms-projects.vercel.app/
-- Live API / Back End server --> https://qa-booking-flow-assessment.onrender.com/
+- Live API / Back End server --> https://qa-booking-flow-assessment.onrender.com/api/skips
 - Clone Project -->  https://github.com/Jiyanenm/qa-booking-flow-assessment
 
 
