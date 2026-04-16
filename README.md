@@ -22,6 +22,7 @@ It includes:
 
 ## Tech Stack
 
+- VS Code - IDE
 - React (Vite)
 - Node.js (Express mock API)
 - Playwright (E2E automation)
