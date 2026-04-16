@@ -53,7 +53,7 @@ function Skeleton() {
 
 // ---------------- MAIN APP ----------------
 export default function App() {
-  const API = "https://qa-booking-flow-assessment-eskugqyvy-jiyanenms-projects.vercel.app/api";
+  const API = "https://qa-booking-flow-assessment.onrender.com/api";
 
   const [step, setStep] = useState(1);
   const [postcode, setPostcode] = useState("");

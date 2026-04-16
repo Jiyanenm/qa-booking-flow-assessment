@@ -4,7 +4,7 @@ import express from "express";
 const app = express();
 
 app.use(cors({
-  origin: "https://qa-booking-flow-assessment-eskugqyvy-jiyanenms-projects.vercel.app/",
+  origin: "https://qa-booking-flow-assessment.onrender.com",
   methods: ["GET", "POST"],
 }));
 
@@ -69,4 +69,4 @@ app.post('/api/booking/confirm', (req, res) => {
   res.json({ status: 'success', bookingId: 'BK-12345' });
 });
 
-app.listen(3001, () => console.log('API running on https://qa-booking-flow-assessment-eskugqyvy-jiyanenms-projects.vercel.app/api'));
+app.listen(3001, () => console.log('API running on https://qa-booking-flow-assessment.onrender.com'));
