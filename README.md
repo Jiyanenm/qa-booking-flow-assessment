@@ -132,7 +132,11 @@ AI layer can be integrated via:
 - Disabled state visibility
 - Accessibility-friendly structure
 
+# Desktop / Web
 ---!![alt text](<evidence/demo booking.jpeg>)
+
+# Mobile
+---!![alt text](evidence/mobile.jpeg)
 
 
 ## Visual and performance testing
