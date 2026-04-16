@@ -1,7 +1,7 @@
 import axios from "axios";
 import type { Address, Skip } from "../types";
 
-const API = "http://localhost:3001/api";
+const API = "https://qa-booking-flow-assessment.onrender.com/api";
 
 export const lookupPostcode = (postcode: string) =>
   axios.post<{ postcode: string; addresses: Address[] }>(
