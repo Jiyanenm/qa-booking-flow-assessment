@@ -20,6 +20,36 @@ It includes:
 
 ---
 
+## AI Integration (NEW)
+
+This project includes an **AI-ready architecture layer** that can be extended to enhance user experience.
+
+### Current AI Capability (Design Ready)
+The system is structured to support AI features such as:
+
+- Smart postcode validation suggestions
+- Waste type recommendation based on user selection
+- Skip size optimization (cost vs capacity)
+- Conversational booking assistant (chat-based UI extension)
+
+### Example AI Use Cases (Future Enhancement)
+
+- “What skip size do I need for a kitchen renovation?”
+- Auto-suggest cheapest suitable skip
+- Predict booking completion time
+- Smart error explanations instead of static messages
+
+### How AI would be added
+
+AI layer can be integrated via:
+- Node.js backend API (`/api/ai/recommendation`)
+- OpenAI API (server-side only)
+- Prompt-based recommendation engine
+- Optional chat widget inside React UI
+
+>  Important: Never expose API keys in frontend code. Use `.env` files on backend.
+
+
 ## Tech Stack
 
 - VS Code - IDE
